@@ -1,9 +1,6 @@
 ### 👋 Hello World, I'm Israel Block
 
 * 🌍 Based in Curitiba, Brazil
-* :computer: +500k code lines typed
-
-
 
 #### :link: Connect with me
 
@@ -29,7 +26,7 @@
   </tbody>  
 </table>
 
-#### :alien: Backend Skills
+#### Backend Skills
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
@@ -59,7 +56,7 @@
 </table>
 
 
-#### :space_invader: Frontend Skills
+#### Frontend Skills
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
@@ -98,7 +95,7 @@
     </tbody>  
 </table>
 
-#### :bucket: Data Skills
+#### Data Skills
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
@@ -132,7 +129,7 @@
     </tbody>
 </table>
 
-#### :hammer_and_wrench: Tools
+#### Tools
 
 <table cellspacing="0" cellpadding="0">
     <tbody>
