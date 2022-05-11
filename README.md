@@ -17,7 +17,7 @@
           </td>
           <td>
             <a href="https://www.github.com/israelblock" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="Github" />
             </a>
           </td>
           <td>
